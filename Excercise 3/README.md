@@ -7,11 +7,13 @@ Project B4 folder for STAT 545B, Option A, Exercise 3.
 
 1. Folder contents:
 
-This folder contains the files for ... and a total of ... files.
+This folder contains the files for exercise3 and a total of 4 files and folders.
 
 ```
 1. README.md
-2. 
+2. Exercise3.rmd
+3. Exercise3.md
+4. Exercise3_files (folder)
 ```
 
 3. How to use this folder?
