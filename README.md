@@ -8,7 +8,7 @@ This repo contains Assignment B4, **Option A**, for "STAT545B".
 
 In this assignment, we be using two exercises from option A:
 
-*Exercise 1:* Plotting the most common words of a book.
+*Exercise 1:* Plotting the most common words of a book using the janeaustenr R package.
 
 *Exercise 3:* Evaluating a model using the palmerpenguins, penguins package and dataset.
 
